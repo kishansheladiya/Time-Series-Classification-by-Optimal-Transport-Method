@@ -1,1 +1,9 @@
 
+cff-version: 1.2.0
+title: "Time Series Classification using Optimal Transport Warping (OTW)"
+message: "If you use this software, please cite the thesis."
+authors:
+  - family-names: "Sheladiya"
+    given-names: "Kishan"
+date-released: 2025-10-14
+type: software
